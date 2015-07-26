@@ -1,0 +1,22 @@
+{
+  "name": "python-js-genetic-algorithm",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "python",
+    "js",
+    "genetic-alhorithm"
+  ],
+  "author": "ViS",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "python-shell": "^0.1.0"
+  }
+}

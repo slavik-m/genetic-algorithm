@@ -1,0 +1,27 @@
+button {
+    margin: 20px 0 10px 0;
+    padding: 10px;
+}
+
+#f {
+    width: 400px;
+}
+
+.formLb {
+    display: inline-block;
+    width: 160px;
+    text-align: right;
+
+}
+
+.formInp {
+    width: 400px;
+}
+
+table {
+    width: 100%;
+}
+
+table td {
+    padding: 5px;
+} 
